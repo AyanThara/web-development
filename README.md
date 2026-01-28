@@ -7,4 +7,4 @@ This repository contains my learning and projects in:
 - React 
 
 Goal:
-To Master Webdev and make good projects and develop skills 
+To Master Webdev and make good projects and develop skills ;

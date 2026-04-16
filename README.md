@@ -4,5 +4,5 @@ This repository contains my learning and projects in:
 - CSS
 - JavaScript
 - React 
-Goal:f
+Goal:
 To Master Webdev and make good projects and develop skills 
